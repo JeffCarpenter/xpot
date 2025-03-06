@@ -114,7 +114,7 @@
     "expo-linking": "~6.2.2",
     "expo-local-authentication": "~13.8.0",
     "expo-localization": "~14.8.3",
-    "expo-network": "~5.8.0",
+    "expo-network": "~7.0.5",
     "expo-notifications": "~0.27.5",
     "expo-screen-orientation": "~6.4.1",
     "expo-secure-store": "~12.8.1",
