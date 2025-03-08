@@ -6146,10 +6146,10 @@ expo-linking@~6.2.2:
     expo-constants "~15.4.3"
     invariant "^2.2.4"
 
-expo-local-authentication@~13.8.0:
-  version "13.8.0"
-  resolved "https://registry.yarnpkg.com/expo-local-authentication/-/expo-local-authentication-13.8.0.tgz#21d9870bbaff0804325bd70f171273560a4293bb"
-  integrity sha512-h0YA7grVdo3834AS70EUCsalaXrrEnoq+yTvIhRTxiPmzWxUv7rNo5ff+XsIEYNElKPmT/wh/xPV1yo3l3fhGg==
+expo-local-authentication@~15.0.2:
+  version "15.0.2"
+  resolved "https://registry.yarnpkg.com/expo-local-authentication/-/expo-local-authentication-15.0.2.tgz#c45460046d9d040370a2a9e18df399abb3df4913"
+  integrity sha512-v7TOfovuivGWffA8B0FudEas+njMKTrjhaPpJYLASiTLTP3zUYqtumNgZ9pkaDB6Cagq0+DeNH39AI8tdEBUkQ==
   dependencies:
     invariant "^2.2.4"
 
